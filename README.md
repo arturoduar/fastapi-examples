@@ -1,4 +1,4 @@
-# fastapi_examples — a tour of FastAPI server features
+# fastapi-examples — a tour of FastAPI server features
 
 One small application, organised as routers that each demonstrate a feature, with a
 test file for every router.
